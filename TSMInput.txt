@@ -1,0 +1,4 @@
+Tell:A->B
+Tell:A
+Tell:A+-C->D
+Tell:-C
